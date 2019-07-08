@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProductView</string>
+    <string name="item_company">О компании</string>
+    <string name="name_of_company">ИНТЕРСКОЛ</string>
+    <string name="website_of_company">http://www.interskol.ru</string>
+    <string name="logo_company">Логотип Компании</string>
+    <string name="go_to_website">Переход на сайт</string>
+    <string name="open_website">Открыть сайт в браузере?</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="id_label">id:</string>
+    <string name="name_label">Имя:</string>
+    <string name="description_label">Описание:</string>
+    <string name="image_product">Фото инструмента</string>
+</resources>
